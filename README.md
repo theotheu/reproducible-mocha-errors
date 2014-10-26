@@ -6,4 +6,4 @@
   - by modifying the (mini-)app
 - Document the fixes
 
-*Note that port number have to be unique.*
+*Note that port numbers have to be unique.*
